@@ -1,0 +1,6 @@
+# This is a placeholder reference — in practice, you'd either:
+# - apply them via raw YAML from the Prometheus Operator repo
+# - or generate them with `kubectl kustomize` from the upstream source
+
+# For learning/demo use:
+# (You can manually apply official CRDs here)
